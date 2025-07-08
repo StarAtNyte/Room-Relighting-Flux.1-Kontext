@@ -2,25 +2,12 @@
 
 Transform your room images with realistic lighting conditions using FLUX.1-Kontext AI model. 
 
-![Room Relighting Demo](assets/demo-banner.png)
-
 ## ✨ Features
 
 - **17 Hourly Lighting Conditions**: From 6 AM to 10 PM with realistic sun angles and shadows
 - **Multiple Lighting Scenarios**: Golden hour, night interior, cloudy day, rainy weather, and more
 - **Automatic Time-lapse Generation**: Creates smooth GIF animations showing lighting transitions
-- **Batch Processing**: Process multiple rooms simultaneously
-- **Memory Optimized**: Uses int8 quantization for efficient VRAM usage
-- **Web Interface**: Easy-to-use Gradio interface for single image processing
-- **Cloud Processing**: Modal.com integration for scalable batch processing
 
-## 🎯 Use Cases
-
-- **Interior Design**: Visualize how rooms look at different times of day
-- **Real Estate**: Show properties in various lighting conditions
-- **Architecture**: Study natural lighting patterns in spaces
-- **Photography**: Plan optimal shooting times for interior photography
-- **Art & Visualization**: Create stunning time-lapse sequences
 
 ## 🚀 Quick Start
 
