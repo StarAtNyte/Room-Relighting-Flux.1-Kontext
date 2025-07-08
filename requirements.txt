@@ -1,0 +1,35 @@
+# Core AI/ML dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+git+https://github.com/huggingface/diffusers.git
+transformers>=4.30.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+
+# Image processing
+Pillow>=9.0.0
+opencv-python>=4.7.0
+
+# Quantization for memory optimization
+torchao>=0.1.0
+
+# Web interface
+gradio>=4.0.0
+
+# Utilities
+tqdm>=4.65.0
+numpy>=1.24.0
+pathlib2>=2.3.7
+
+# Cloud processing (optional)
+modal>=0.55.0
+
+# Logging and monitoring
+logging>=0.4.9.6
+
+# File handling
+pathlib>=1.0.1
+json5>=0.9.0
+
+# Optional: For better performance
+# xformers>=0.0.20  # Uncomment if you have compatible GPU
